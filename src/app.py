@@ -75,6 +75,30 @@ activities = {
         "max_participants": 18,
         "participants": []
     }
+"Cricket Team": {
+    "description": "Learn cricket skills and compete in inter-school matches",
+    "schedule": "Mondays, Wednesdays, Fridays, 4:00 PM – 6:00 PM",
+    "max_participants": 22,
+    "participants": []
+},
+"Badminton Club": {
+    "description": "Practice badminton techniques and participate in tournaments",
+    "schedule": "Tuesdays and Thursdays, 4:00 PM – 5:30 PM",
+    "max_participants": 16,
+    "participants": []
+},
+"Kabaddi Team": {
+    "description": "Master the traditional Indian team sport of kabaddi",
+    "schedule": "Mondays and Fridays, 4:30 PM – 6:00 PM",
+    "max_participants": 20,
+    "participants": []
+},
+"Kho-Kho Club": {
+    "description": "Learn and play the classic chase game of kho-kho",
+    "schedule": "Wednesdays and Saturdays, 4:00 PM – 5:30 PM",
+    "max_participants": 18,
+    "participants": []
+}
 }
 
 
